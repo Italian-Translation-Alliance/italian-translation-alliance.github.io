@@ -2,7 +2,7 @@
 title: "video"
 bg: turquoise
 color: white
-fa-icon: film
+fa-icon: fa-language
 ---
 
 # Traduzione

@@ -2,7 +2,7 @@
 title: "setup details"
 bg: orange
 color: black
-fa-icon: toggle-on
+fa-icon: fa-creative-commons-pd
 ---
 
 # Contenuto libero

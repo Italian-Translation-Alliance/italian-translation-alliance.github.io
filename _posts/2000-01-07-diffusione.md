@@ -1,8 +1,8 @@
 ---
 title: "video"
-bg: turquoise
+bg: wall
 color: white
-fa-icon: film
+fa-icon: fa-people-arrows
 ---
 
 # Diffusione

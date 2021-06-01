@@ -1,8 +1,8 @@
 ---
 title: "video"
-bg: turquoise
+bg: ocra
 color: white
-fa-icon: film
+fa-icon: fa-universal-access
 ---
 
 # Inclusività
