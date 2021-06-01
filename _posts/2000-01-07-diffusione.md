@@ -2,7 +2,7 @@
 title: "diffusione"
 bg: '#cf420f'
 color: white
-fa-icon: fa-people-arrows
+fa-icon: people-arrows
 ---
 
 # Diffusione

@@ -2,7 +2,7 @@
 title: "collaborazione"
 bg: purple
 color: white
-fa-icon: fa-user-friends
+fa-icon: user-friends
 ---
 
 # Collaborazione

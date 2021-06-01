@@ -2,7 +2,7 @@
 title: "condivisione"
 bg: '#63BD2F'
 color: white
-fa-icon: fa-share
+fa-icon: share
 ---
 
 # Condivisione

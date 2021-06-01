@@ -2,7 +2,7 @@
 title: "inclusività"
 bg: '#cf720f'
 color: white
-fa-icon: fa-universal-access
+fa-icon: universal-access
 ---
 
 # Inclusività

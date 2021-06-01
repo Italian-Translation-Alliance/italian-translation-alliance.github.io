@@ -2,7 +2,7 @@
 title: "traduzione"
 bg: turquoise
 color: white
-fa-icon: fa-language
+fa-icon: language
 ---
 
 # Traduzione

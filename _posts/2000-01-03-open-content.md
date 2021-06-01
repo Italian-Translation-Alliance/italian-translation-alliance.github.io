@@ -2,7 +2,7 @@
 title: "contenuto libero"
 bg: orange
 color: black
-fa-icon: fa-creative-commons-pd
+fa-icon: creative-commons-pd
 ---
 
 # Contenuto libero
