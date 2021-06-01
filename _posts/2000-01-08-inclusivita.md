@@ -1,6 +1,6 @@
 ---
 title: "inclusività"
-bg: #cf720f
+bg: '#cf720f'
 color: white
 fa-icon: fa-universal-access
 ---
