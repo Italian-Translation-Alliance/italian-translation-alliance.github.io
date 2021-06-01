@@ -1,5 +1,5 @@
 ---
-title: "video"
+title: "diffusione"
 bg: wall
 color: white
 fa-icon: fa-people-arrows

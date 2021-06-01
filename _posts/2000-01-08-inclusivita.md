@@ -1,5 +1,5 @@
 ---
-title: "video"
+title: "inclusività"
 bg: ocra
 color: white
 fa-icon: fa-universal-access

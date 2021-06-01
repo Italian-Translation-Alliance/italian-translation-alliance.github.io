@@ -1,5 +1,5 @@
 ---
-title: "setup details"
+title: "contenuto libero"
 bg: orange
 color: black
 fa-icon: fa-creative-commons-pd
