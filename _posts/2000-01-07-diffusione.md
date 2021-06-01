@@ -1,6 +1,6 @@
 ---
 title: "diffusione"
-bg: wall
+bg: #cf420f
 color: white
 fa-icon: fa-people-arrows
 ---
