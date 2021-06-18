@@ -1,7 +1,7 @@
 ---
 title: Cepheus Engine
 header:
-  teaser: "/assets/img/ce-webcover.jpg"
+  teaser: "/assets/img/ce-webcover.png"
 excerpt: 'Cepheus Engine delinea le regole fondamentali usate da un Sistema di Gioco Aperto, basato su 2D6, di Fantascienza dell’Era Classica.'
 layout: single
 classes: wide
