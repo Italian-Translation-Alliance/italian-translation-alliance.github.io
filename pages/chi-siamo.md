@@ -1,0 +1,33 @@
+---
+layout: single
+classes: wide
+title: Chi siamo
+permalink: "/chi-siamo/"
+---
+
+L’Italian Translation Alliance (di seguito ITA) è un gruppo informale di giocatori di ruolo che si riconoscono nei valori di contenuto libero, condivisione, inclusività e collaborazione, il cui scopo è tradurre e diffondere liberamente e gratuitamente giochi di ruolo in lingua italiana.
+
+# Gioco di ruolo
+
+Siamo innanzitutto giocatori di ruolo; questa nostra passione guida il nostro lavoro nato in seno e rivolto alla comunità di giocatori. Non ci guidano logiche di mercato né ricerca di consenso. Proponiamo opere che ci piacciono e crediamo meritevoli di essere conosciute anche da chi non le potrebbe giocare senza una traduzione italiana.
+
+# Contenuto libero
+
+Preferiamo rivolgere i nostri sforzi a opere pubblicate sotto licenze libere come l’Open Gaming Content e Creative Commons, poiché sosteniamo il principio di libera diffusione e la possibilità di creare opere derivate che esse presuppongono. Traduciamo sempre informando prima l’autore originale e chiedendo il permesso.
+
+# Condivisione
+
+Siamo un gruppo informale nato spontaneamente attorno a un comune sentire, alla passione per i giochi di ruolo e alla condivisione dei valori di questo manifesto. Presentiamo il lavoro svolto come “tradotto da Italian Translation Alliance”, pur preservando l’identità dei singoli collaboratori.
+
+# Collaborazione
+Chiunque può entrare a far parte dell’ITA e l’opinione e la competenza di tutti sono fondamentali per il lavoro comune. I coordinatori dei singoli progetti sono figure organizzative e in tutto e per tutto pari agli altri membri. Tutti possono proporre progetti e le priorità di traduzione sono valutate dal gruppo di lavoro.
+
+# Traduzione
+Ci impegniamo a tradurre i testi in una forma rispettosa sia della lingua sia della terminologia consolidatasi nel gioco di ruolo italiano. Le scelte di traduzione più incerte sono soggette alla partecipazione collaborativa del gruppo.
+
+# Diffusione
+
+Il risultato del nostro lavoro è distribuito gratuitamente sotto licenza libera, rispettando le licenze dei lavori originali e dei loro autori. Non c’è alcuno scopo lucrativo nel nostro lavoro e preferiremo sempre proporre la nostra traduzione all’autore originale per la pubblicazione, prima di procedere all’utilizzo della nostra vetrina.
+
+# Inclusività
+Chiunque è il benvenuto in ITA senza distinzioni di sesso, genere, orientamento sessuale o capacità fisiche e cognitive; il loro apporto è fondamentale per rendere le traduzioni dei giochi fruibili al maggior numero di persone possibile nel rispetto della pluralità del genere umano.

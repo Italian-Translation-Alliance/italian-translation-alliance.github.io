@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Chi siamo"
+    url: /chi-siamo/
+  - title: "Progetti"
+    url: /progetti/  
+  - title: "Team"
+    url: /team/
+  - title: "Blog"
+    url: /blog/
+  - title: "Vetrina"
+    url: "https://ita-translation-alliance.itch.io/"

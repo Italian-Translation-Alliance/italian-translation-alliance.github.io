@@ -1,0 +1,65 @@
+---
+# title: "Splash Page"
+layout: splash
+permalink: /
+date: 
+intro: 
+  - excerpt: 'L’Italian Translation Alliance è un gruppo informale di giocatori di ruolo che si riconoscono nei valori di contenuto libero, condivisione, inclusività e collaborazione, il cui scopo è tradurre e diffondere liberamente e gratuitamente giochi di ruolo in lingua italiana.'
+feature_row:
+  - # image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    # alt: "placeholder image 1"
+    title: "Chi siamo"
+    excerpt: "Il nostro manifesto e i nostri valori"
+    url: "/chi-siamo/"
+    btn_label: "Leggi"
+    btn_class: "btn--primary"
+  - # image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    # alt: "placeholder image 2"
+    title: "Progetti"
+    excerpt: "Una carrellata dei nostri progetti conclusi e in corso"
+    url: "/progetti/"
+    btn_label: "Leggi"
+    btn_class: "btn--primary"
+  - # image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Team"
+    excerpt: "Conosci i membri che collaborano al progetto"
+    url: "/team/"
+    btn_label: "Leggi"
+    btn_class: "btn--primary"
+feature_row2:
+  - # image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Vetrina"
+    excerpt: "Qui troverai tutti i progetti di ITA che sono pubblicati direttamente da noi"
+    url: "https://ita-translation-alliance.itch.io/"
+    btn_label: "itch.io"
+    btn_class: "btn--primary"
+#feature_row3:
+#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#    alt: "placeholder image 2"
+#    title: "Placeholder Image Right Aligned"
+#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--primary"
+#feature_row4:
+#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#    alt: "placeholder image 2"
+#    title: "Placeholder Image Center Aligned"
+#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--primary"
+---
+<div class="feature__item--center">
+	<img src="assets/img/logo.png" alt="" width="400" height="400">
+</div>
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="center" %}
+
+<!-- {% include feature_row id="feature_row3" type="right" %} -->
+
+<!-- {% include feature_row id="feature_row4" type="center" %} -->
