@@ -9,7 +9,7 @@ permalink: "/team/"
 INFJ, classe 1984. Taoista e stoico. Appassionato di fantascienza e weird dal 1997. Sono arbitro, giocatore e traduttore amatoriale. Il miei sistemi di gioco preferiti sono La Scatola Bianca e Cepheus Engine. Ho contribuito alla traduzione di Cepheus Engine, La Scatola Bianca e Basic Fantasy Role Playing Game in italiano.  
 [https://linktr.ee/zeruhur](https://linktr.ee/zeruhur)
 
-# Pieralberto Cavallo
+## Pieralberto Cavallo
 Classe 1978, la mia iniziazione ai giochi di ruolo e avvenuta con la scatola rossa e da li in poi ho cominciato a collezionare svariati giochi di ruolo fino. A seguito dell'avvento della quarta edizione ho sentito la necessita di tornare a qualcosa di più semplice e diretto, scoprendo il movimento OSR e dando inizio alla prima traduzione italiana del Basic Fantasy Role-Playing Game.
 
 Lettore accanito di fantasy e fantascienza, porto avanti con passione i progetti di traduzione del'Italian Translation Alliance sperando possano contribuire alla creazione di una comunità unita, serena e inclusiva.
