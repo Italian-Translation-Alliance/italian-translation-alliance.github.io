@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "zeruhur"
+  name             : "Italian Translation Alliance"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "un appassionato di cose inutili"
-  location         : "Somewhere"
+  bio              : ""
+  location         : ""
   email            :
   links:
     - label: "Email"
