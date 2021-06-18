@@ -1,6 +1,6 @@
 ---
 layout: single
-title: La Scatola Bianca
+title: Le riflessioni di Philotomy
 categories: annunci
 author: zeruhur
 ---
