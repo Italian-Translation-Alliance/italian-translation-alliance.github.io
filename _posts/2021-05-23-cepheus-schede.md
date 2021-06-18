@@ -11,4 +11,4 @@ E dite pure che non vi raccapezzate nel sistema di generazione di personaggi... 
 
 Scaricabili insieme al [regolamento su itch.io](https://cepheus-engine-ita.itch.io/regolamento)
 
-Ovviamente gratis
+Ovviamente gratis!
