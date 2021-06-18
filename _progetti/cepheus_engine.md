@@ -10,7 +10,17 @@ share: false
 ---
 <iframe frameborder="0" src="https://itch.io/embed/944995" width="552" height="167"><a href="https://cepheus-engine-ita.itch.io/regolamento">Cepheus Engine by Cepheus Engine - Versione Italiana</a></iframe>
 
+<iframe frameborder="0" src="https://itch.io/embed/917300" width="552" height="167"><a href="https://cepheus-engine-ita.itch.io/cepheus-pvl">Cepheus: Più Veloce Della Luce! by Cepheus Engine - Versione Italiana</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/970205" width="552" height="167"><a href="https://cepheus-engine-ita.itch.io/cepheus-quantum">Cepheus Quantum - ITA by Cepheus Engine - Versione Italiana</a></iframe>
+
 Cepheus Engine è un gioco Old School, sotto [Open Gaming License](https://it.wikipedia.org/wiki/Open_Gaming_License), che deriva dal [System Reference Document](https://it.wikipedia.org/wiki/System_Reference_Document) di Mongoose Traveller I edizione.
+
+L'Italian Translation Alliance ha pubblicato tre versioni di Cepheus Engine:
+
+- **System Reference Document**: un gioco di ruolo completo in grado di supportare anni di campagna
+- **Cepheus: Più veloce della luce**: un regolamento adatto a one-shot e campagna di breve respiro
+- **Cepheus Quantum**: un regolamento minimale pensato per rapide one-shot e sessioni alle convention.
 
 Traveller è stato il primo gioco di ruolo di fantascienza che ha cercato di ricreare le atmosfere della fantascienza dell'era classica, quella di autori come Isaac Asimov, Robert A. Heinlein, Poul Anderson, H. Beam Piper e E. C. Tubb.
 
