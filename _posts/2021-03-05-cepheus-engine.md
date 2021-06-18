@@ -24,6 +24,6 @@ Un po' di link:
 - [Terra dei Giochi](t.ly/mt73)
 - [DriveThru](https://www.drivethrurpg.com/product/349065/Cepheus-Engine--Versione-Italiana)
 
-Per errata e suggerimenti: [mailto:cepheus.engine.ita@gmail.com](cepheus.engine.ita@gmail.com)
+Per errata e suggerimenti: [cepheus.engine.ita@gmail.com](mailto:cepheus.engine.ita@gmail.com)
 
 Ringraziamenti speciali a Luca Alexander Volpino Pieralberto Cavallo e Francisco Pettigiani
