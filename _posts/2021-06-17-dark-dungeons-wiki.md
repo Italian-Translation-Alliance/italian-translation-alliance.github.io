@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Paludenera
+title: Dark Dungeons Wiki
 categories: annunci
 author: zeruhur
 ---
