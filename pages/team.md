@@ -6,7 +6,7 @@ permalink: "/team/"
 ---
 
 ## Roberto Bisceglie
-INFJ, classe 1984. Taoista e stoico. Appassionato di fantascienza e weird dal 1997. Sono arbitro, giocatore e traduttore amatoriale. Il miei sistemi di gioco preferiti sono La Scatola Bianca e Cepheus Engine. Ho contribuito alla traduzione di Cepheus Engine, La Scatola Bianca e Basic Fantasy Role Playing Game in italiano.  
+INFJ, classe 1984. Taoista e stoico. Appassionato di fantascienza e weird dal 1997. Sono arbitro, giocatore e traduttore amatoriale. I miei sistemi di gioco preferiti sono La Scatola Bianca e Cepheus Engine. Ho contribuito alla traduzione di Cepheus Engine, La Scatola Bianca e Basic Fantasy Role Playing Game in italiano.  
 [https://linktr.ee/zeruhur](https://linktr.ee/zeruhur)
 
 ## Pieralberto Cavallo
