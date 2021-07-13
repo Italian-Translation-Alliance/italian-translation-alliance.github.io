@@ -18,8 +18,8 @@ E l'OGL vi permette di farci un po' quello che vi pare, infatti in inglese ha fa
 
 Intanto ecco a voi la versione "pura" sulle varie piattaforme:
 
-[PDF su Terra dei Giochi](https://www.terradeigiochi.it/gdr-digitali/6097-la-scatola-bianca-versione-digitale.html)
-[POD Amazon](https://www.amazon.it/dp/B096TL8PN3)
-[POD Lulu (softcover)](https://t.ly/7Q3w)
-[POD Lulu(hardcover)](https://t.ly/xxKN)
-[Web SRD](https://italian-translation-alliance.github.io/la.../)
+[PDF su Terra dei Giochi](https://www.terradeigiochi.it/gdr-digitali/6097-la-scatola-bianca-versione-digitale.html)  
+[POD Amazon](https://www.amazon.it/dp/B096TL8PN3)  
+[POD Lulu (softcover)](https://t.ly/7Q3w)  
+[POD Lulu(hardcover)](https://t.ly/xxKN)  
+[Web SRD](https://italian-translation-alliance.github.io/la-scatola-bianca/)
