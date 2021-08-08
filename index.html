@@ -86,3 +86,33 @@ feature_row2:
     <button type="submit">Invia</button>
   </form>
 </div>
+
+<!-- Messenger Plug-in della chat Code -->
+<div id="fb-root"></div>
+
+<!-- Your Plug-in della chat code -->
+<div id="fb-customer-chat" class="fb-customerchat">
+</div>
+
+<div class="feature__wrapper"></div>
+  <script>
+    var chatbox = document.getElementById('fb-customer-chat');
+    chatbox.setAttribute("page_id", "105259655138001");
+    chatbox.setAttribute("attribution", "biz_inbox");
+
+    window.fbAsyncInit = function() {
+      FB.init({
+        xfbml            : true,
+        version          : 'v11.0'
+      });
+    };
+
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/it_IT/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+</div>
