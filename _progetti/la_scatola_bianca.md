@@ -13,7 +13,7 @@ share: false
 <iframe frameborder="0" src="https://itch.io/embed/1074055" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/la-scatola-bianca">La Scatola Bianca by Italian Translation Alliance</a></iframe>
 
 ## Prima della Scatola Rossa c’era la Scatola Bianca!
-La Scatola Bianca: Gioco fantasy medievale d'avventura è un gioco di ruolo facile da imparare che emula il Gioco Originale d'Avventura Fantasy del 1974 di Gigax e Arneson, l’edizione originale della famosa “Scatola Rossa”. È basato su Swords & Wizardry WhiteBox.
+La Scatola Bianca: Gioco fantasy medievale d'avventura è un gioco di ruolo facile da imparare che emula il Gioco Originale d'Avventura Fantasy del 1974 di Gygax e Arneson, l’edizione originale della famosa “Scatola Rossa”. È basato su Swords & Wizardry WhiteBox.
 
 ## Giocate i classici avventurieri in cerca di oro e fortuna che esplorano lande selvagge e sotterranei ricolmi d'orrore e tesori!
 
