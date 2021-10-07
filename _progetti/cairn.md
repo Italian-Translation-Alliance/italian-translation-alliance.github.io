@@ -1,7 +1,7 @@
 ---
 title: Cairn
 header:
-  teaser: "/assets/img/liminal_horror-webcover.png"
+  teaser: "/assets/img/cairn-webcover.png"
 excerpt: "Un gioco d'avventura sull’esplorazione di un Bosco oscuro e misterioso pieno di gente strana, tesori nascosti e mostruosità indicibili."
 layout: single
 classes: wide
