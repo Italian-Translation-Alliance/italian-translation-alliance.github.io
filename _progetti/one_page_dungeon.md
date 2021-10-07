@@ -1,7 +1,7 @@
 ---
 title: One Page Dungeon
 header:
-  teaser: "/assets/img/odnd-webcover.png"
+  teaser: ""
 excerpt: "Avventure contenute in una sola pagina, pronte per sessioni rapide e improvvisate. Rigorosamente sotto licenza aperta!"
 layout: single
 classes: wide
