@@ -7,7 +7,13 @@ layout: single
 classes: wide
 author_profile: false
 share: false
-
+pod:
+  lulu:
+    hardcover: "https://www.lulu.com/en/en/shop/alessio-persichetti-and-roberto-bisceglie/la-scatola-bianca/hardcover/product-wgqgkp.html?page=1&pageSize=4"
+    softcover: "http://lulu.com/en/en/shop/alessio-persichetti-and-roberto-bisceglie/la-scatola-bianca/paperback/product-qqj8rn.html?page=1&pageSize=4"
+  amazon:
+    hardcover: "https://www.amazon.it/Scatola-Bianca-fantasy-medievale-davventura/dp/B09G9PWL7Z/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr="
+    softcover: "https://www.amazon.it/Scatola-Bianca-fantasy-medievale-davventura/dp/B096TL8PN3/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr="
 ---
 
 <iframe frameborder="0" src="https://itch.io/embed/1074055" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/la-scatola-bianca">La Scatola Bianca by Italian Translation Alliance</a></iframe>
@@ -30,9 +36,3 @@ Questo gioco non è una pubblicazione ufficiale S&W.
 
 ## Web SRD
 La versione web liberamente consultabile è raggiungibile [QUI](https://italian-translation-alliance.github.io/la-scatola-bianca/)
-
-## Print on demand
-La Scatola bianca è disponibile in POD su 
-
-Lulu: [hardcover](https://www.lulu.com/en/en/shop/alessio-persichetti-and-roberto-bisceglie/la-scatola-bianca/hardcover/product-wgqgkp.html?page=1&pageSize=4) e [softcover](http://lulu.com/en/en/shop/alessio-persichetti-and-roberto-bisceglie/la-scatola-bianca/paperback/product-qqj8rn.html?page=1&pageSize=4)
-Amazon: [softcover](https://www.amazon.it/dp/B096TL8PN3)

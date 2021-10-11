@@ -7,6 +7,13 @@ layout: single
 classes: wide
 author_profile: false
 share: false
+pod:
+  lulu:
+    softcover: "https://www.lulu.com/en/en/shop/yochai-gal-and-cosmicorrery-and-jim-parkin-and-stefano-grassi/cairn-versione-italiana/paperback/product-zvw9j5.html"
+  amazon:
+    softcover: "https://www.amazon.it/Cairn-Versione-Italiana-Yochai-Gal/dp/B09FS8D5Z2"
+
+
 ---
 
 <iframe frameborder="0" src="https://itch.io/embed/947942" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/cairn-ita">Cairn (Versione Italiana) by Italian Translation Alliance</a></iframe>
@@ -23,6 +30,4 @@ Contenuto, Design e Layout: Yochai Gal
 <br>Character Sheet: Licopeo
 <br>Traduzione Italiana: Stefano Grassi
 <br>Revisione Italiana: OSR Italia (Facebook), Ruling the Game (Telegram) ed in particolare Roberto Bisceglie, Yuri Zanelli, Barakiel The Archangel, Dismanster FraNe.
-
-Versione cartacea acquistabile su [Amazon](https://www.amazon.it/Cairn-Versione-Italiana-Yochai-Gal/dp/B09FS8D5Z2) e [Lulu](https://www.lulu.com/en/en/shop/yochai-gal-and-cosmicorrery-and-jim-parkin-and-stefano-grassi/cairn-versione-italiana/paperback/product-zvw9j5.html)
 
