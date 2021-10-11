@@ -7,6 +7,11 @@ layout: single
 classes: wide
 author_profile: false
 share: false
+pod:
+  amazon:
+    softcover: "https://www.amazon.it/dp/B09HFXXJMC"
+  lulu:
+    softcover: "https://www.lulu.com/en/en/shop/nick-erickson-and-roberto-bisceglie/liminal-horror-versione-italiana/paperback/product-n5npm4.html?page=1&pageSize=4"
 ---
 
 <iframe frameborder="0" src="https://itch.io/embed/1213720" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/liminal-horror">Liminal Horror (Italiano) by Italian Translation Alliance</a></iframe>
@@ -27,9 +32,6 @@ Traduzione per l’Italian Translation Alliance di Roberto Bisceglie, revisione 
 
 Tutto il testo è sotto licenza CC-BY-SA 4.0. 
 Le immagini interne sono di pubblico dominio.
-
-Versione cartacea acquistabile su [Amazon](https://www.amazon.it/dp/B09HFXXJMC) e [Lulu](https://www.lulu.com/en/en/shop/nick-erickson-and-roberto-bisceglie/liminal-horror-versione-italiana/paperback/product-n5npm4.html?page=1&pageSize=4)
-
 ________________________________________________________________________
 
 Risorse: Liminal Horror è stato progettato per presentare il gioco principale in quante più modalità possibili per i Facilitatori e i Giocatori. 

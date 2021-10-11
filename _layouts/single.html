@@ -40,6 +40,32 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+        {% if page.pod %}
+          <div class="pod_widget" style="border-style: solid; border-width: 1px;border-color: #dadada; padding: 10px; width: 552px;">
+            <div class="thumb_wrapper" style="float: left; box-sizing: border-box;">
+              <img style="width: 180px;height:143px;" src="{{ site.url }}{{ page.header.teaser }}">
+            </div>
+            <div class="link_wrapper" style="float:left; padding-left: 10px; box-sizing: border-box;">
+            <strong>Acquista il manuale POD su:</strong>
+              {% if page.pod.lulu %}
+                  <p>
+                      Lulu: 
+                          {% if page.pod.lulu.hardcover %}<a target="_blank" href="{{ page.pod.lulu.hardcover }}" style="color: #fa5c5c">Hardcover</a>{% endif %}
+                          {% if page.pod.lulu.softcover %}<a target="_blank" href="{{ page.pod.lulu.softcover }}" style="color: #fa5c5c">Softcover</a> {% endif %}
+                  </p>
+              {% endif %}
+              {% if page.pod.amazon %}
+                  <p>
+                      Amazon: 
+                          {% if page.pod.amazon.hardcover %}<a target="_blank" href="{{ page.pod.amazon.hardcover }}" style="color: #fa5c5c">Hardcover</a>{% endif %}
+                          {% if page.pod.amazon.softcover %}<a target="_blank" href="{{ page.pod.amazon.softcover }}" style="color: #fa5c5c">Softcover</a> {% endif %}
+                  </p>
+              {% endif %}
+            </div>
+            <div style="clear:both"></div>
+          </div>
+          <br/>
+        {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

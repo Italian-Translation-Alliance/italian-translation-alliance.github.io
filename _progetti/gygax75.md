@@ -7,6 +7,9 @@ layout: single
 classes: wide
 author_profile: false
 share: false
+pod:
+  lulu:
+    softcover: "https://www.lulu.com/en/us/shop/ray-otus-and-roberto-bisceglie/la-sfida-gygax-75/paperback/product-zngwdr.html?page=1&pageSize=4"
 ---
 <iframe frameborder="0" src="https://itch.io/embed/1066988" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/la-sfida-gygax-75">La Sfida Gygax 75 by Italian Translation Alliance</a></iframe>
 

@@ -7,6 +7,13 @@ layout: single
 classes: wide
 author_profile: false
 share: false
+pod:
+  amazon:
+    hardcover: "https://www.amazon.it/Cepheus-Engine-Fantascienza-Classica-Versione/dp/B09GCJCSR2/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr="
+    softcover: "https://www.amazon.it/Cepheus-Engine-Fantascienza-Classica-Versione/dp/B08Y4JBRCX/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr="
+  lulu:
+    hardcover: "https://www.amazon.it/Cepheus-Engine-Fantascienza-Classica-Versione/dp/B08Y4JBRCX/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr="
+    softcover: "https://www.lulu.com/en/us/shop/jason-kemp-and-luca-volpino-and-pieralberto-cavallo-and-roberto-bisceglie/cepheus-engine-versione-italiana-softcover/paperback/product-dem924.html"
 ---
 <iframe frameborder="0" src="https://itch.io/embed/944995" width="552" height="167"><a href="https://cepheus-engine-ita.itch.io/regolamento">Cepheus Engine by Cepheus Engine - Versione Italiana</a></iframe>
 
