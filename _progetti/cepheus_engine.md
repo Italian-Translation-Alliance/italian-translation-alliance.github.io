@@ -15,11 +15,11 @@ pod:
     hardcover: "https://www.amazon.it/Cepheus-Engine-Fantascienza-Classica-Versione/dp/B08Y4JBRCX/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr="
     softcover: "https://www.lulu.com/en/us/shop/jason-kemp-and-luca-volpino-and-pieralberto-cavallo-and-roberto-bisceglie/cepheus-engine-versione-italiana-softcover/paperback/product-dem924.html"
 ---
-<iframe frameborder="0" src="https://itch.io/embed/944995" width="552" height="167"><a href="https://cepheus-engine-ita.itch.io/regolamento">Cepheus Engine by Cepheus Engine - Versione Italiana</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/944995" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/cepheus-engine">Cepheus Engine by Italian Translation Alliance</a></iframe>
 
-<iframe frameborder="0" src="https://itch.io/embed/917300" width="552" height="167"><a href="https://cepheus-engine-ita.itch.io/cepheus-pvl">Cepheus: Più Veloce Della Luce! by Cepheus Engine - Versione Italiana</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/917300" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/cepheus-pvl">Cepheus: Più Veloce Della Luce! by Italian Translation Alliance</a></iframe>
 
-<iframe frameborder="0" src="https://itch.io/embed/970205" width="552" height="167"><a href="https://cepheus-engine-ita.itch.io/cepheus-quantum">Cepheus Quantum - ITA by Cepheus Engine - Versione Italiana</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/970205" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/cepheus-quantum">Cepheus Quantum - ITA by Italian Translation Alliance</a></iframe>
 
 Cepheus Engine è un gioco Old School, sotto [Open Gaming License](https://it.wikipedia.org/wiki/Open_Gaming_License), che deriva dal [System Reference Document](https://it.wikipedia.org/wiki/System_Reference_Document) di Mongoose Traveller I edizione.
 
