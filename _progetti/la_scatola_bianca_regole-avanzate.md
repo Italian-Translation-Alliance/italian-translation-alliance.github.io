@@ -1,7 +1,7 @@
 ---
 title: 'La Scatola Bianca: Regole Avanzate'
 header:
-  teaser: "/assets/img/lsbra_webcover.jpg"
+  teaser: "/assets/img/lsbra_webcover.png"
 excerpt: 'La Scatola Bianca: Regole Avanzate è il volume che espande il regolamento base de La Scatola Bianca: Gioco fantasy medievale d’avventura.'
 layout: single
 classes: wide
