@@ -154,6 +154,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - archivio
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
