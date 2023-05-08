@@ -7,6 +7,9 @@ layout: single
 classes: wide
 author_profile: false
 share: false
+pod:
+  amazon:
+    softcover: "https://www.amazon.it/dp/B0C1JB51GY"
 ---
 <iframe frameborder="0" src="https://itch.io/embed/1834853" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/maze-rats">Maze Rats by Italian Translation Alliance</a></iframe>
 
