@@ -5,7 +5,7 @@ categories: annunci
 author: zeruhur
 ---
 
-Presentiamo la traduzione italiana di questo utilissimo articolo di [Naeolin](https://widdershinswanderings.bearblog.dev/) che introduce sintenticamente lo stile di gioco OSR/NSR e chiarisce alcuni dubbi ricorrenti su [Cairn](https://it.cairnrpg.com)
+_Presentiamo la traduzione italiana di questo utilissimo articolo di [Naeolin](https://widdershinswanderings.bearblog.dev/) che introduce sintenticamente lo stile di gioco OSR/NSR e chiarisce alcuni dubbi ricorrenti su [Cairn](https://it.cairnrpg.com)_
 
 ![Immagine della copertina di Cairn con la mano che fa il dito cerchiata in rosso.](https://i.imgur.com/NbgFm99.png)
 
