@@ -13,7 +13,7 @@ _Presentiamo la traduzione italiana di questo utilissimo articolo di [Naeolin](h
 
 ## Introduzione
 
-Ehy ciao! Di recente c'è stata molta nuova linfa nel campo dell'OSR/NSR. Lascio i commenti polemici su Twitter, ma un risultato diretto di questa infusione è che ho visto _molte_ domande riguardanti l'OSR/NSR in generale e Cairn in particolare. Pertanto, in questo post cercherò di spiegare alcuni particolari dello stile di gioco OSR per coloro che sono completamente nuovi a questa parte dell'hobby, ma soprattutto mi concentrerò su Cairn e sulle domande che vengono frequentemente poste su Cairn Discord.
+Ehy ciao! Di recente è stata infusa nuova linfa vitale nell'ambito dell'OSR/NSR. Lascio i commenti polemici su Twitter, ma un risultato diretto di questa infusione è che ho visto _molte_ domande riguardanti l'OSR/NSR in generale e Cairn in particolare. Pertanto, in questo post cercherò di spiegare alcuni particolari dello stile di gioco OSR per coloro che sono completamente nuovi a questa parte dell'hobby, ma soprattutto mi concentrerò su Cairn e sulle domande che vengono frequentemente poste su Cairn Discord.
 
 Quindi chi dovrebbe leggere questo post? Nel complesso chiunque ami i miei scritti (ciao, mamma!), ma in particolare i seguenti gruppi di persone:
 
