@@ -19,8 +19,6 @@ Maze Rats resta tuttavia un gioco particolarmente ben progettato, basato su Into
 
 Mentre *Knave* fu tempestivamente tradotto da Cristian Di Mariano, Maze Rats restava inedito per il pubblico italiano. Inutile dire che la quantità enorme di tabelle rendeva l'impresa piuttosto ardua e ben poco attraente. 
 
-Questa volta non prevediamo di rilasciare alcuna versione POD, quindi mano ai toner!
-
 Versione WEB [QUI](https://mazerats.italiantranslationalliance.org/#/)
 
 Creato da [Ben Milton](https://questingbeast.itch.io/maze-rats) e sotto licenza CC BY 4.0.
