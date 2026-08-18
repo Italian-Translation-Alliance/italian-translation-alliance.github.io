@@ -66,6 +66,28 @@ layout: default
           </div>
           <br/>
         {% endif %}
+        {% if page.rpgtrader %}
+          <div class="pod_widget" style="border-style: solid; border-width: 1px;border-color: #dadada; padding: 10px; width: 552px;">
+            <div class="thumb_wrapper" style="float: left; box-sizing: border-box;">
+              <img style="width: 180px;height:143px;" src="{{ site.url }}assets/img/rpg-trader-avatar.png">
+            </div>
+            <div class="link_wrapper" style="float:left; padding-left: 10px; box-sizing: border-box;">
+              <strong>Disponibile su RPG Trader</strong>
+              <p>
+                  In digitale{% if page.rpgtrader.pod %} e POD{% endif %}: <a target="_blank" href="{{page.rpgtrader.link}}" style="color: #fa5c5c">{{page.title}}</a>
+              </p>
+              {% if page.pod.lulu %}
+                  <p>
+                      Lulu: 
+                          {% if page.pod.lulu.hardcover %}<a target="_blank" href="{{ page.pod.lulu.hardcover }}" style="color: #fa5c5c">Hardcover</a>{% endif %}
+                          {% if page.pod.lulu.softcover %}<a target="_blank" href="{{ page.pod.lulu.softcover }}" style="color: #fa5c5c">Softcover</a> {% endif %}
+                  </p>
+              {% endif %}
+            </div>
+            <div style="clear:both"></div>
+          </div>
+          <br/>
+        {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
