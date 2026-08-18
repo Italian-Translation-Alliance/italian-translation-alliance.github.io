@@ -67,18 +67,19 @@ layout: default
           <br/>
         {% endif %}
         {% if page.rpgtrader %}
-          <div class="pod_widget" style="border-style: solid; border-width: 1px;border-color: #dadada; padding: 10px; width: 552px;">
-            <div class="thumb_wrapper" style="float: left; box-sizing: border-box;">
-              <img style="width: 180px;height:143px;" src="{{ site.url }}assets/img/rpg-trader-avatar.png">
+          <a target="_blank" href="{{page.rpgtrader.link}}" style="color: black; text-decoration: none;">
+            <div class="pod_widget" style="border-style: solid; border-width: 1px;border-color: #dadada; padding: 10px; width: 552px;">
+              <div class="thumb_wrapper" style="float: left; box-sizing: border-box;">
+                <img style="width: 143px;height:143px;" src="{{ site.url }}/assets/img/7-rpg-trader-avatar.png">
+              </div>
+              <div class="link_wrapper" style="float:left; padding-left: 10px; box-sizing: border-box;">
+                <strong>Disponibile su RPG Trader</strong>
+                <p>Edizione digitale{% if page.rpgtrader.pod %} e POD{% endif %}.</p>
+                </a>
+              </div>
+              <div style="clear:both"></div>
             </div>
-            <div class="link_wrapper" style="float:left; padding-left: 10px; box-sizing: border-box;">
-              <strong>Disponibile su RPG Trader</strong>
-              <p>
-                  In digitale{% if page.rpgtrader.pod %} e POD{% endif %}: <a target="_blank" href="{{page.rpgtrader.link}}" style="color: #fa5c5c">{{page.title}}</a>
-              </p>
-            </div>
-            <div style="clear:both"></div>
-          </div>
+          </a>
           <br/>
         {% endif %}
         {{ content }}
