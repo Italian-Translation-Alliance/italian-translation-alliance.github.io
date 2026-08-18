@@ -7,11 +7,6 @@ layout: single
 classes: wide
 author_profile: false
 share: false
-pod:
-  amazon:
-    softcover: "https://www.amazon.it/dp/B09HFXXJMC"
-  lulu:
-    softcover: "https://www.lulu.com/en/en/shop/nick-erickson-and-roberto-bisceglie/liminal-horror-versione-italiana/paperback/product-n5npm4.html?page=1&pageSize=4"
 ---
 
 <iframe frameborder="0" src="https://itch.io/embed/1213720" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/liminal-horror">Liminal Horror (Italiano) by Italian Translation Alliance</a></iframe>

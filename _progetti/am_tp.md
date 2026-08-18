@@ -7,9 +7,6 @@ layout: single
 classes: wide
 author_profile: false
 share: false
-pod:
-  amazon:
-    softcover: "https://www.amazon.it/dp/B0BPG7V7P4"
 ---
 
 <iframe width="552" height="167" frameborder="0" src="https://itch.io/embed/1822335"><a href="https://ita-translation-alliance.itch.io/antichi-misteri-tesori-perduti">Antichi Misteri &amp; Tesori Perduti by Italian Translation Alliance</a></iframe>

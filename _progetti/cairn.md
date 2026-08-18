@@ -7,9 +7,9 @@ layout: single
 classes: wide
 author_profile: false
 share: false
-pod:
-  amazon:
-    softcover: "https://www.amazon.it/dp/B0H71TGGLX"
+rpgtrader:
+  pod: true
+  link: https://rpg-trader.com/products/6923/cairn-versione-italiana
     
 ---
 
