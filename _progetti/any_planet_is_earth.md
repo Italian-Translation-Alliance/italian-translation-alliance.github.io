@@ -7,6 +7,9 @@ layout: single
 classes: wide
 author_profile: false
 share: false
+rpgtrader:
+  pod: false
+  link: https://rpg-trader.com/products/6925/any-planet-is-earth-versione-italiana
 ---
 
 <iframe src="https://itch.io/embed/1843248" width="552" height="167" frameborder="0"><a href="https://ita-translation-alliance.itch.io/any-planet-is-earth">Any Planet is Earth by Italian Translation Alliance</a></iframe>

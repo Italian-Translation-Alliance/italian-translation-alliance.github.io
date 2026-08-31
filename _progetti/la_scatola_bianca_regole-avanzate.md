@@ -7,13 +7,6 @@ layout: single
 classes: wide
 author_profile: false
 share: false
-pod:
-  lulu:
-    hardcover: "https://www.lulu.com/en/en/shop/alessio-persichetti-and-roberto-bisceglie/la-scatola-bianca-regole-avanzate-premium-hardcover/hardcover/product-r2prrm.html?page=1&pageSize=4"
-    softcover: "https://www.lulu.com/en/en/shop/alessio-persichetti-and-roberto-bisceglie/la-scatola-bianca-regole-avanzante-paperback/paperback/product-zvpr7g.html?page=1&pageSize=4"
-  amazon:
-    hardcover: "https://www.amazon.it/dp/B09K1XFS43"
-    softcover: "https://www.amazon.it/dp/B09K1WVZNB"
 ---
 
 <iframe frameborder="0" src="https://itch.io/embed/1249442" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/la-scatola-bianca-regole-avanzate">La Scatola Bianca: Regole Avanzate by Italian Translation Alliance</a></iframe>

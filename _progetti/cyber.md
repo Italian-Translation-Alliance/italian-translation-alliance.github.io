@@ -7,9 +7,6 @@ layout: single
 classes: wide
 author_profile: false
 share: false
-pod:
-  amazon:
-    softcover: "https://www.amazon.it/dp/B0CVNCR95T"
 ---
 
 <iframe width="552" height="167" frameborder="0" src="https://itch.io/embed/2526854"><a href="https://ita-translation-alliance.itch.io/cyber">Cyber by Italian Translation Alliance</a></iframe>
