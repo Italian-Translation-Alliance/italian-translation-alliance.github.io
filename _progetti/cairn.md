@@ -10,7 +10,9 @@ share: false
 rpgtrader:
   pod: true
   link: https://rpg-trader.com/products/6923/cairn-versione-italiana
-    
+pod:
+   amazon:
+      softcover: https://amzn.eu/d/0hVWR5EJ
 ---
 
 <iframe frameborder="0" src="https://itch.io/embed/947942" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/cairn-ita">Cairn (Versione Italiana) by Italian Translation Alliance</a></iframe>
