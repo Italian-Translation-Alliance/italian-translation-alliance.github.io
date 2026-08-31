@@ -7,6 +7,9 @@ layout: single
 classes: wide
 author_profile: false
 share: false
+rpgtrader:
+  pod: true
+  link: https://rpg-trader.com/products/9002/maze-rats-versione-italiana
 ---
 <iframe frameborder="0" src="https://itch.io/embed/1834853" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/maze-rats">Maze Rats by Italian Translation Alliance</a></iframe>
 
